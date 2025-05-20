@@ -1,0 +1,23 @@
+{
+  "name": "backend-node-api",
+  "version": "1.0.0",
+  "description": "proyecto documentación api (backend)",
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "license": "MIT",
+  "author": "Cristian",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js",
+    "cristian": "node src/index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1",
+    "sequelize": "^6.37.7"
+  }
+}
