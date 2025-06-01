@@ -1,0 +1,1 @@
+import{_ as o,c as s,a as t,o as c}from"./index-tY3_DY6K.js";const n={},r={class:"card"};function a(_,e){return c(),s("div",r,e[0]||(e[0]=[t("h1",null,"Gestión documentos",-1)]))}const l=o(n,[["render",a]]);export{l as default};
